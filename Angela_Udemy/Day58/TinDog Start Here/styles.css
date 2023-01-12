@@ -1,0 +1,190 @@
+body{
+    font-family: "Ubuntu";
+}
+
+#title{
+    background-color: #ff4c68;
+    text-align: center;
+    
+}
+.top-container{
+    position: relative;
+    padding: 3% 15%;
+    height: 900px;
+}
+
+/* Navbar */
+.navbar{
+    padding-bottom:4rem;
+}
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-link{
+    font-size: 1.5rem;
+}
+
+/* Top section excluding navbar */
+h1 {
+
+    color: rgb(245, 245, 245);
+    font-weight: bold;
+    font-size: 4.5rem;
+    line-height: 1.5;
+    padding-bottom: 4rem;
+}
+
+.phone-image{
+    transform: rotate(25deg);
+    height: 1200px;
+    position: relative;
+    left: 180px;
+}
+
+.btn {
+
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    margin-right: 13px;
+    border-radius: 7px;
+    filter: drop-shadow(2px 2px 1px rgba(0, 0, 0, 0.25));
+    font-weight: 2.5rem;
+}
+
+  /* Features */
+
+
+.features-section{
+    text-align: center;
+    height: auto;
+    position: relative;
+    background-color: white;
+    padding: 7% 15%
+}  
+
+.icons{
+    color: #ef8172;
+    font-size: 4rem;
+    padding-bottom: 1.5rem;
+}
+
+.icons:hover{
+    color:#ff4c68;   
+}
+
+.features-section p{
+    color: #8f8f8f;
+    
+}
+
+/* Testimonials  */
+
+#testimonials{
+    position: relative;
+    background-color:#ef8172;
+    text-align: center;
+    color: white;
+    padding: 7% 0;
+}
+#testimonials h2{
+    padding-bottom: 3%;
+
+}
+
+.testimonial-image{
+    border-radius: 100%;
+    width: 9%;
+}
+
+
+/* Press */
+
+#press{
+    background-color:#ef8172;
+    text-align:center;
+}
+
+.press-image{
+    width: 16%;
+    padding: 0 2% 5% 1rem; 
+}
+
+/* Pricing */
+
+#pricing{
+    text-align: center;  
+
+}
+
+.cards-container{
+    padding: 2% 5%;
+
+
+}
+
+.card-title{
+    padding: 0;
+}
+
+.card{
+    position: relative;
+    width: 94%;
+    padding: 0;
+
+} 
+
+.card-btn{
+    position: relative;
+    width: 85%;
+    margin-left: 7.5%;
+    margin-bottom: 5%;
+    border-radius: 2px;
+}
+
+.pricing-title{
+    padding: 5% 0;
+}
+
+.subscription-details{
+    color: rgb(162, 158, 158);
+}
+
+
+/* Call to Action */
+
+#cta{
+    padding: 9% 0;
+    background-color:#ff4c68 ;
+    
+}
+
+/* Footer */
+
+#footer{
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.social-icon{
+    padding: 0 8px;
+}
+
+
+@media (max-width: 1028px) {
+    #title{
+        text-align: center;
+    }
+    .phone-image{
+        transform: rotate(0deg);
+        left: 0;
+        height: 1000px;
+        width: 500px;
+        margin-top: 120px;
+        
+    }
+    .top-container{
+        height: auto;
+    }
+
+}

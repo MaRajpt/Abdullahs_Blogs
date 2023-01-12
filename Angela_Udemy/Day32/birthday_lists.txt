@@ -1,0 +1,4 @@
+name,email,year,month,day
+Mum,ma0880@outlook.com,2022,09,14
+Dad,ma0880@outlook.com,1955,06,15
+Bro,ma0880@outlook.com,2022,09,14

@@ -1,0 +1,15 @@
+
+#////////////////////////////////// DATABASE MANAGEMENT SYSTEM \\\\\\\\\\\\\\\\\\\\\\\\\\\
+    
+# SOFTWARRE INETREACT WITH END USERS, APPLICATIONS AND DATABASE ITSELF TO CAPTURE AND ANALYZE DATA.
+# DATA STORED IN DATABASE CAN BE MODIFIED, RETRIVED AND DELETED
+# HENCE DATABASE AND ASSOCIATED DATABASE MANAGMENT SYSTEM TOGETHER CALLED DATABASE SYSTEMS
+
+import mysql.connector as mysql
+
+db = mysql.connect(
+    host= "127.0.0.1",
+    user="root",
+    passwd="dbms"
+)
+print(db)

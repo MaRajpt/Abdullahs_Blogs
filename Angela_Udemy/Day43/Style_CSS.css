@@ -1,0 +1,24 @@
+
+
+body {
+    background-color: #749F82;
+}
+h1{
+  color: yellow;
+}
+
+hr {
+  border-style: none;
+  background-color: #749F82;
+  border-top: 5px dotted orange;
+  width: 7%;
+}
+
+h3{
+  color: pink;
+}
+
+img {
+    height: 200px;
+    width: 25%
+}

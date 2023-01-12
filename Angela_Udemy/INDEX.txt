@@ -1,0 +1,141 @@
+DAY1 | Printing, Commenting, Debugging String Manipulation and Varaibles.
+
+DAY2 | Data Types , Numbers, Operators, Type Conversion, f-String.
+
+DAY3 | Conditional Statements, Logical Operators, Code Blocks and Scopes.
+
+DAY4 | Randomisation and Python Lists
+
+DAY5 | For Loops, Range and Code Blocks
+
+DAY6 | Functions, Code Blocks and While Loops
+
+DAY7 | Hangman Project Using While, for, if , lists etc..
+
+DAY8 | Cipher Project , using fuctions etc..
+
+DAY9 | Nesting and Dictionary.
+
+DAY10 | Fucntions with Outputs.
+
+DAY11 | The Black Jack Game.
+
+DAY12 | Scopes ,Global, Local.
+
+DAY13 | Debugging.
+
+DAY14 | Higher or Lower Game.
+
+DAY15 | Coffee Machine
+
+DAY16 | OOP Object Oriented Programming
+
+DAY17 | Quiz Project Using OOP
+
+DAY18 | Turtle Graphics, Tuples and importing Modules
+
+DAY19 | Event Listeners, State and Multiple Instances
+
+DAY20 | Building Snake Game Part 1,Inheritance, Slicing and finishing the snake game.
+
+DAY21 | ########  20 and 21 combines above
+
+DAY22 | The Pong Game
+
+DAY23 |
+
+DAY24 | Working with local Files and Directories
+
+DAY25 | Work with CSV Files And Analyze Data with Pandas  !!!!!!!!!!!!!
+
+DAY26 | List and Dictionary Comprehensions
+
+DAY27 | GUI with Tkinter and Function Arguments
+
+DAY28 | The Pomodoro technique APP using Tkinter Canvas widget
+
+DAY29 | Building a Password Manager
+
+DAY30 | Errors, Exceptions and Saving JSON Data
+
+DAY31 | Capstone Project- FLash Card Program
+
+DAY32 | Email SMTP and the datetime module              #####  UNFINISHED DUE TO CONNECTION ERROR ##########
+
+DAY33 | API ( Application Programming Interface)
+
+DAY34 | The Trivia API and The Quizzler APP, "TYPE HINT"
+
+DAY35 | API Keys, Authentication, Environment Variables and Sending SMS
+
+DAY36 | Company stocks APi, and Text Message
+
+DAY37 | Advanced Authentication and POST / DELETE Requests
+
+DAY38 | Exercise tracking with Python and Google Sheets
+
+DAY39 | Part1: Cheap Flight Finder ( using different API's)
+
+DAY40 | Part2:  Of Flight Finder ( with customer entry )
+
+DAY41 | Web Development, Introduction To HTML Tags
+
+DAY42 | Web Development, Forms and Tables
+
+DAY43 | Styling websites with CSS
+
+DAY44 | Creating a Beautiful Personal Site
+
+DAY45 | Scraping the Web with BeautifulSoup
+
+DAY46 |
+
+DAY47 |
+
+DAY448|
+
+DAY49 |
+
+DAY50 |
+
+DAY51 |
+
+DAY52 |
+
+DAY53 |
+
+DAY54 | Backend Web Development with Python, Introduction to Flask.
+
+DAY55 | Advanced Decorators, Rendering HTML, Parsing URLs and Flask Debugging.
+
+DAY56 | Static Files, HTML/CSS File Rendering and a Personal Site.
+
+DAY57 | URL Building and Templating with Jinja in Your Flask Application.
+
+DAY58 |  Bootstrap in depth (tindog project)
+
+DAY59 |  Personal Blog Site Project
+
+DAY60 | HTML Forms (As used in 59)
+
+DAY61 | Building Advance Forms with Flask-WTForms
+
+DAY62 | Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+
+DAY63 |
+
+DAY64 |
+
+DAY65 |
+
+DAY66 |
+
+DAY67 |
+
+DAY68 |
+
+DAY69 |
+
+DAY70 |
+
+

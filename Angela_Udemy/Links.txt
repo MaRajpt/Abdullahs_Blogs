@@ -1,0 +1,41 @@
+#####################  WEB DEV  ########################
+
+https://html5up.net/			( html, css   templates)
+
+https://giphy.com/			( giphs )
+
+https://colorhunt.co/       	(color combinations)
+
+https://tequila.kiwi.com/portal/getting-started ( Flights API)
+
+https://www.twilio.com/       ( texts message API )
+
+https://sheety.co/ 		( Google sheets into API )
+
+https://www.npoint.io/	( Craete your own json API)
+
+https://www.codeply.com/p	(Easy and Quick environment for code)
+
+https://ui-patterns.com/	( WEb designing )
+
+https://www.awwwards.com/   ( WEB DESIGNING )
+
+https://dribbble.com/  ( WEB DESIGN )
+
+https://sneakpeekit.com/  ( WEB DESINning WIRE FRAMING )
+
+https://balsamiq.com/  ( WEB DESIGN )  VERYYYYYYYY GOOOD 
+
+https://fontawesome.com/   ( alots of icons) 
+
+https://bootsnipp.com/	( snippets for web dev ) 
+
+https://startbootstrap.com/previews/clean-blog ( bootstrap templates)
+
+https://unsplash.com/explore	( FREE IMAGE FOR WEB DEV )
+
+
+################################ PYTHON ############################
+
+
+
